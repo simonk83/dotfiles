@@ -6,7 +6,7 @@ git clone https://github.com/flipsidecreations/dotfiles.git
 
 cd dotfiles
 ```
-### Run intstall
+### Run install
 ```
 ./install.sh
 ```
